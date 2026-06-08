@@ -7,9 +7,8 @@
 
 ## Architecture Diagram
 
-![synapse Architecture](diagrams/synapse-arch.svg)
+![synapse Architecture](diagrams/synapse-arch.png)
 
-> **Edit this diagram:** open [`diagrams/synapse-arch.excalidraw`](diagrams/synapse-arch.excalidraw) in [excalidraw.com](https://excalidraw.com) or VS Code with the Excalidraw extension.
 
 ---
 
