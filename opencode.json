@@ -1,0 +1,17 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "mcp": {
+    "excalidraw": {
+      "type": "local",
+      "command": ["excalidraw-mcp"],
+      "enabled": true,
+      "env": {}
+    },
+    "excalidraw-architect": {
+      "type": "local",
+      "command": ["excalidraw-architect-mcp"],
+      "enabled": true,
+      "env": {}
+    }
+  }
+}

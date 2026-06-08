@@ -1,0 +1,13 @@
+# Firebase cached searches
+.firecrawl/
+
+# Python virtual environment
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
