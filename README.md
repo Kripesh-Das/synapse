@@ -1,2 +1,2 @@
 # synapse
-hospital agent harness with slm
+Hospital AI agent harness with local SLMs
