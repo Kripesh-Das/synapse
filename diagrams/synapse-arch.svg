@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="19 -140 1650 2574" width="1650" height="2574">
+<style>text { font-family: Helvetica, Arial, sans-serif; }</style>
+<rect x="320.0" y="50.0" width="170.0" height="56.0" rx="8" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<rect x="320.0" y="200.0" width="170.0" height="56.0" rx="8" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<rect x="320.0" y="360.0" width="170.0" height="56.0" rx="8" fill="#d3f9d8" stroke="#2b8a3e" stroke-width="2"/>
+<rect x="850.0" y="360.0" width="170.0" height="56.0" rx="8" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<rect x="320.0" y="540.0" width="170.0" height="56.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="850.0" y="540.0" width="170.0" height="56.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="60.0" y="720.0" width="170.0" height="56.0" rx="8" fill="#ffe3e3" stroke="#c92a2a" stroke-width="2"/>
+<rect x="320.0" y="720.0" width="170.0" height="56.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="580.0" y="720.0" width="170.0" height="56.0" rx="8" fill="#fff3bf" stroke="#e67700" stroke-width="2"/>
+<rect x="60.0" y="900.0" width="170.0" height="56.0" rx="8" fill="#eebefa" stroke="#845ef7" stroke-width="2"/>
+<rect x="365.0" y="900.0" width="170.0" height="56.0" rx="8" fill="#ffe3e3" stroke="#c92a2a" stroke-width="2"/>
+<rect x="580.0" y="900.0" width="170.0" height="56.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="854.8" y="906.4" width="170.0" height="56.0" rx="8" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<rect x="580.0" y="1080.0" width="170.0" height="56.0" rx="8" fill="#d3f9d8" stroke="#2b8a3e" stroke-width="2"/>
+<rect x="851.6" y="1081.6" width="170.0" height="56.0" rx="8" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<rect x="320.0" y="1260.0" width="170.0" height="56.0" rx="8" fill="#ffe3e3" stroke="#c92a2a" stroke-width="2"/>
+<rect x="580.0" y="1260.0" width="170.0" height="56.0" rx="8" fill="#eebefa" stroke="#845ef7" stroke-width="2"/>
+<rect x="850.0" y="1550.0" width="170.0" height="56.0" rx="8" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<rect x="850.0" y="50.0" width="170.0" height="56.0" rx="8" fill="#fff3bf" stroke="#e67700" stroke-width="2"/>
+<rect x="1237.0" y="84.3" width="16.0" height="16.0" rx="4" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="1237.3" y="114.1" width="16.0" height="16.0" rx="4" fill="#d3f9d8" stroke="#2b8a3e" stroke-width="2"/>
+<rect x="1238.4" y="143.8" width="16.0" height="16.0" rx="4" fill="#ffe3e3" stroke="#c92a2a" stroke-width="2"/>
+<rect x="1238.7" y="171.2" width="16.0" height="16.0" rx="4" fill="#fff3bf" stroke="#e67700" stroke-width="2"/>
+<rect x="1239.0" y="198.5" width="18.0" height="16.5" rx="4" fill="#eebefa" stroke="#845ef7" stroke-width="2"/>
+<rect x="1240.2" y="227.5" width="18.0" height="14.9" rx="4" fill="#f1f3f5" stroke="#868e96" stroke-width="2"/>
+<ellipse cx="644.0" cy="316.9" rx="24.1" ry="20.1" fill="transparent" stroke="#1e1e1e" stroke-width="2"/>
+<ellipse cx="644.8" cy="406.2" rx="24.1" ry="20.1" fill="transparent" stroke="#1e1e1e" stroke-width="2"/>
+<ellipse cx="775.1" cy="493.0" rx="24.1" ry="20.1" fill="transparent" stroke="#1e1e1e" stroke-width="2"/>
+<ellipse cx="776.7" cy="677.2" rx="24.1" ry="20.1" fill="transparent" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="494.5" y="-110.9" width="419.0" height="51.5" rx="8" fill="transparent" stroke="#1e1e1e" stroke-width="2"/>
+<rect x="1364.7" y="199.0" width="280.0" height="72.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="1364.7" y="305.3" width="280.0" height="128.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="1366.8" y="475.3" width="280.0" height="100.0" rx="8" fill="#d0ebff" stroke="#1971c2" stroke-width="2"/>
+<rect x="1369.4" y="617.9" width="280.0" height="72.0" rx="8" fill="#eebefa" stroke="#845ef7" stroke-width="2"/>
+<rect x="1361.5" y="8.0" width="280.0" height="148.0" rx="8" fill="#fff3bf" stroke="#e67700" stroke-width="2"/>
+<path d="M 405.0 106.0 L 405.0 106.0 L 405.0 200.0" fill="none" stroke="#495057" stroke-width="2"/>
+<polygon points="405.0,200.0 401.9,192.6 408.1,192.6" fill="#495057"/>
+<path d="M 405.0 256.0 L 405.0 256.0 L 405.0 360.0" fill="none" stroke="#495057" stroke-width="2"/>
+<polygon points="405.0,360.0 401.9,352.6 408.1,352.6" fill="#495057"/>
+<path d="M 405.0 416.0 L 405.0 416.0 L 405.0 540.0" fill="none" stroke="#495057" stroke-width="2"/>
+<polygon points="405.0,540.0 401.9,532.6 408.1,532.6" fill="#495057"/>
+<path d="M 405.0 596.0 L 405.0 596.0 L 405.0 720.0" fill="none" stroke="#495057" stroke-width="2"/>
+<polygon points="405.0,720.0 401.9,712.6 408.1,712.6" fill="#495057"/>
+<path d="M 320.0 748.0 L 320.0 748.0 L 230.0 748.0" fill="none" stroke="#c92a2a" stroke-width="2"/>
+<polygon points="230.0,748.0 237.4,744.9 237.4,751.1" fill="#c92a2a"/>
+<path d="M 490.0 748.0 L 490.0 748.0 L 580.0 748.0" fill="none" stroke="#e67700" stroke-width="2"/>
+<polygon points="580.0,748.0 572.6,751.1 572.6,744.9" fill="#e67700"/>
+<path d="M 145.0 776.0 L 145.0 776.0 L 145.0 900.0" fill="none" stroke="#c92a2a" stroke-width="2"/>
+<polygon points="145.0,900.0 141.9,892.6 148.1,892.6" fill="#c92a2a"/>
+<path d="M 575.9 775.9 L 575.9 775.9 L 528.2 894.0" fill="none" stroke="#c92a2a" stroke-width="2"/>
+<polygon points="528.2,894.0 528.0,886.0 533.8,888.4" fill="#c92a2a"/>
+<path d="M 665.0 776.0 L 665.0 776.0 L 665.0 900.0" fill="none" stroke="#1971c2" stroke-width="2"/>
+<polygon points="665.0,900.0 661.9,892.6 668.1,892.6" fill="#1971c2"/>
+<path d="M 535.0 928.0 L 535.0 928.0 L 580.0 928.0" fill="none" stroke="#495057" stroke-width="2"/>
+<polygon points="580.0,928.0 572.6,931.1 572.6,924.9" fill="#495057"/>
+<path d="M 665.0 956.0 L 665.0 956.0 L 665.0 1080.0" fill="none" stroke="#495057" stroke-width="2"/>
+<polygon points="665.0,1080.0 661.9,1072.6 668.1,1072.6" fill="#495057"/>
+<path d="M 574.0 1126.4 L 574.0 1126.4 L 487.7 1254.9" fill="none" stroke="#c92a2a" stroke-width="2"/>
+<polygon points="487.7,1254.9 489.2,1247.1 494.4,1250.5" fill="#c92a2a"/>
+<path d="M 665.0 1136.0 L 665.0 1136.0 L 665.0 1260.0" fill="none" stroke="#2b8a3e" stroke-width="2"/>
+<polygon points="665.0,1260.0 661.9,1252.6 668.1,1252.6" fill="#2b8a3e"/>
+<path d="M 490.0 1288.0 L 490.0 1288.0 L 580.0 1288.0" fill="none" stroke="#c92a2a" stroke-width="2"/>
+<polygon points="580.0,1288.0 572.6,1291.1 572.6,1284.9" fill="#c92a2a"/>
+<path d="M 490.0 388.0 L 490.0 388.0 L 850.0 388.0" fill="none" stroke="#868e96" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,388.0 842.6,391.1 842.6,384.9" fill="#868e96"/>
+<path d="M 750.0 1108.0 L 750.0 1108.0 L 850.0 1108.0" fill="none" stroke="#868e96" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,1108.0 842.6,1111.1 842.6,1104.9" fill="#868e96"/>
+<path d="M 750.0 748.0 L 750.0 748.0 L 850.0 928.0" fill="none" stroke="#868e96" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,928.0 843.7,923.1 849.1,920.0" fill="#868e96"/>
+<path d="M 490.0 568.0 L 490.0 568.0 L 850.0 568.0" fill="none" stroke="#1971c2" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,568.0 842.6,571.1 842.6,564.9" fill="#1971c2"/>
+<path d="M 490.0 748.0 L 490.0 748.0 L 850.0 568.0" fill="none" stroke="#1971c2" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,568.0 844.8,574.1 842.0,568.5" fill="#1971c2"/>
+<path d="M 665.0 900.0 L 665.0 900.0 L 935.0 596.0" fill="none" stroke="#1971c2" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,596.0 932.4,603.6 927.8,599.4" fill="#1971c2"/>
+<path d="M 665.0 1260.0 L 665.0 1260.0 L 935.0 596.0" fill="none" stroke="#1971c2" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,596.0 935.1,604.0 929.3,601.7" fill="#1971c2"/>
+<path d="M 230.0 928.0 L 230.0 928.0 L 850.0 568.0" fill="none" stroke="#1971c2" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,568.0 845.2,574.4 842.1,569.0" fill="#1971c2"/>
+<path d="M 490.0 568.0 L 490.0 568.0 L 850.0 78.0" fill="none" stroke="#e67700" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="850.0,78.0 848.1,85.8 843.1,82.1" fill="#e67700"/>
+<path d="M 405.0 720.0 L 405.0 720.0 L 935.0 106.0" fill="none" stroke="#e67700" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,106.0 932.5,113.6 927.8,109.5" fill="#e67700"/>
+<path d="M 665.0 900.0 L 665.0 900.0 L 935.0 106.0" fill="none" stroke="#e67700" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,106.0 935.6,114.0 929.7,112.0" fill="#e67700"/>
+<path d="M 665.0 1260.0 L 665.0 1260.0 L 935.0 106.0" fill="none" stroke="#e67700" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,106.0 936.4,113.9 930.3,112.5" fill="#e67700"/>
+<path d="M 405.0 596.0 L 405.0 596.0 L 935.0 1550.0" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,1550.0 928.7,1545.1 934.1,1542.0" fill="#adb5bd"/>
+<path d="M 405.0 776.0 L 405.0 776.0 L 935.0 1550.0" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,1550.0 928.3,1545.7 933.4,1542.2" fill="#adb5bd"/>
+<path d="M 145.0 776.0 L 145.0 776.0 L 935.0 1550.0" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,1550.0 927.6,1547.1 931.9,1542.6" fill="#adb5bd"/>
+<path d="M 665.0 776.0 L 665.0 776.0 L 935.0 1550.0" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,1550.0 929.6,1544.1 935.5,1542.0" fill="#adb5bd"/>
+<path d="M 665.0 956.0 L 665.0 956.0 L 935.0 1550.0" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,1550.0 929.1,1544.6 934.8,1542.0" fill="#adb5bd"/>
+<path d="M 665.0 1136.0 L 665.0 1136.0 L 935.0 1550.0" fill="none" stroke="#adb5bd" stroke-width="2" stroke-dasharray="8,4"/>
+<polygon points="935.0,1550.0 928.4,1545.5 933.6,1542.1" fill="#adb5bd"/>
+<text x="361.3" y="70.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Patient Interface</text>
+<text x="370.0" y="220.5" text-anchor="middle" fill="#1e1e1e" font-size="12">API Gateway</text>
+<text x="358.3" y="380.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Session Manager</text>
+<text x="898.6" y="369.5" text-anchor="middle" fill="#1e1e1e" font-size="10">Redis Cache</text>
+<text x="898.6" y="382.0" text-anchor="middle" fill="#1e1e1e" font-size="10">(sessions, state)</text>
+<text x="362.8" y="560.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Welcome Agent</text>
+<text x="898.0" y="560.5" text-anchor="middle" fill="#1e1e1e" font-size="12">MiniCPM5-1B</text>
+<text x="92.0" y="740.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Emergency Handler</text>
+<text x="354.3" y="740.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Symptom Collector</text>
+<text x="627.9" y="740.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Triage Engine</text>
+<text x="113.0" y="909.5" text-anchor="middle" fill="#1e1e1e" font-size="10">Session Close</text>
+<text x="113.0" y="922.0" text-anchor="middle" fill="#1e1e1e" font-size="10">(Emergency)</text>
+<text x="400.6" y="920.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Urgent Notification</text>
+<text x="610.6" y="920.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Summary Generator</text>
+<text x="917.2" y="926.9" text-anchor="middle" fill="#1e1e1e" font-size="12">RAG KB</text>
+<text x="619.3" y="1100.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Data Persistence</text>
+<text x="899.1" y="1091.1" text-anchor="middle" fill="#1e1e1e" font-size="10">PostgreSQL</text>
+<text x="899.1" y="1103.6" text-anchor="middle" fill="#1e1e1e" font-size="10">(records, chkpnt)</text>
+<text x="369.0" y="1280.5" text-anchor="middle" fill="#1e1e1e" font-size="12">Error Handler</text>
+<text x="633.0" y="1269.5" text-anchor="middle" fill="#1e1e1e" font-size="10">Session Close</text>
+<text x="633.0" y="1282.0" text-anchor="middle" fill="#1e1e1e" font-size="10">(Main)</text>
+<text x="902.8" y="1559.5" text-anchor="middle" fill="#1e1e1e" font-size="10">Langfuse</text>
+<text x="902.8" y="1572.0" text-anchor="middle" fill="#1e1e1e" font-size="10">(Observability)</text>
+<text x="905.8" y="59.5" text-anchor="middle" fill="#1e1e1e" font-size="10">Tool Harness</text>
+<text x="905.8" y="72.0" text-anchor="middle" fill="#1e1e1e" font-size="10">(15 tools)</text>
+<text x="253.5" y="734.0" text-anchor="middle" fill="#c92a2a" font-size="10">emergency</text>
+<text x="509.9" y="705.9" text-anchor="middle" fill="#e67700" font-size="11.286670097786919">data ready</text>
+<text x="492.6" y="841.7" text-anchor="middle" fill="#c92a2a" font-size="10">score <= 2</text>
+<text x="614.5" y="831.2" text-anchor="middle" fill="#1971c2" font-size="10">score > 2</text>
+<text x="495.0" y="1184.0" text-anchor="middle" fill="#c92a2a" font-size="10">failure</text>
+<text x="625.0" y="1184.0" text-anchor="middle" fill="#2b8a3e" font-size="10">success</text>
+<text x="646.1" y="364.3" text-anchor="middle" fill="#868e96" font-size="10">session state</text>
+<text x="760.0" y="1094.0" text-anchor="middle" fill="#868e96" font-size="10">checkpoint</text>
+<text x="792.2" y="806.3" text-anchor="middle" fill="#868e96" font-size="10">protocols</text>
+<text x="630.0" y="554.0" text-anchor="middle" fill="#1971c2" font-size="10">LLM</text>
+<text x="630.0" y="644.0" text-anchor="middle" fill="#1971c2" font-size="10">LLM</text>
+<text x="760.0" y="734.0" text-anchor="middle" fill="#1971c2" font-size="10">LLM</text>
+<text x="760.0" y="914.0" text-anchor="middle" fill="#1971c2" font-size="10">LLM</text>
+<text x="500.0" y="734.0" text-anchor="middle" fill="#1971c2" font-size="10">LLM</text>
+<text x="630.0" y="309.0" text-anchor="middle" fill="#e67700" font-size="10">3 tools</text>
+<text x="630.0" y="399.0" text-anchor="middle" fill="#e67700" font-size="10">10 tools</text>
+<text x="760.0" y="489.0" text-anchor="middle" fill="#e67700" font-size="10">6 tools</text>
+<text x="760.0" y="669.0" text-anchor="middle" fill="#e67700" font-size="10">3 tools</text>
+<text x="630.0" y="1059.0" text-anchor="middle" fill="#adb5bd" font-size="10">trace</text>
+<text x="630.0" y="1149.0" text-anchor="middle" fill="#adb5bd" font-size="10">trace</text>
+<text x="500.0" y="1149.0" text-anchor="middle" fill="#adb5bd" font-size="10">trace</text>
+<text x="760.0" y="1149.0" text-anchor="middle" fill="#adb5bd" font-size="10">trace</text>
+<text x="760.0" y="1239.0" text-anchor="middle" fill="#adb5bd" font-size="10">trace</text>
+<text x="760.0" y="1329.0" text-anchor="middle" fill="#adb5bd" font-size="10">trace</text>
+<text x="324.7" y="-91.9" text-anchor="start" fill="#1e1e1e" font-size="28">synapse - Architecture Diagram</text>
+<text x="1240.0" y="85.7" text-anchor="start" fill="#1e1e1e" font-size="11">LLM Node</text>
+<text x="1230.7" y="115.5" text-anchor="start" fill="#1e1e1e" font-size="11">Deterministic</text>
+<text x="1218.7" y="145.3" text-anchor="start" fill="#1e1e1e" font-size="11">Emergency/Safety</text>
+<text x="1249.3" y="173.4" text-anchor="start" fill="#1e1e1e" font-size="11">Triage</text>
+<text x="1233.9" y="199.9" text-anchor="start" fill="#1e1e1e" font-size="11">Session Close</text>
+<text x="1235.9" y="228.9" text-anchor="start" fill="#1e1e1e" font-size="11">External/Infra</text>
+<text x="1239.2" y="195.5" text-anchor="start" fill="#1e1e1e" font-size="10">Welcome Agent</text>
+<text x="1239.2" y="208.0" text-anchor="start" fill="#1e1e1e" font-size="10">3 tools: end_conversation, request_human, switch_language</text>
+<text x="1243.9" y="252.8" text-anchor="start" fill="#1e1e1e" font-size="10">Symptom Collector</text>
+<text x="1243.9" y="265.3" text-anchor="start" fill="#1e1e1e" font-size="10">10 tools: end_conversation, request_human,</text>
+<text x="1243.9" y="277.8" text-anchor="start" fill="#1e1e1e" font-size="10">switch_language,</text>
+<text x="1243.9" y="290.3" text-anchor="start" fill="#1e1e1e" font-size="10">ask_symptom_details, confirm_symptom, reject_symptom,</text>
+<text x="1243.9" y="302.8" text-anchor="start" fill="#1e1e1e" font-size="10">summarize_symptoms, update_patient_context,</text>
+<text x="1243.9" y="315.3" text-anchor="start" fill="#1e1e1e" font-size="10">check_triage_ready, trigger_emergency_alert</text>
+<text x="1279.9" y="435.0" text-anchor="start" fill="#1e1e1e" font-size="10">Summary Generator</text>
+<text x="1279.9" y="447.5" text-anchor="start" fill="#1e1e1e" font-size="10">6 tools: end_conversation, request_human,</text>
+<text x="1279.9" y="460.0" text-anchor="start" fill="#1e1e1e" font-size="10">switch_language,</text>
+<text x="1279.9" y="472.5" text-anchor="start" fill="#1e1e1e" font-size="10">search_hospital_kb, get_department_info,</text>
+<text x="1279.9" y="485.0" text-anchor="start" fill="#1e1e1e" font-size="10">check_wait_times</text>
+<text x="1243.9" y="614.4" text-anchor="start" fill="#1e1e1e" font-size="10">Session Close</text>
+<text x="1243.9" y="626.9" text-anchor="start" fill="#1e1e1e" font-size="10">3 tools: end_conversation, request_human, switch_language</text>
+<text x="1239.9" y="-105.7" text-anchor="start" fill="#1e1e1e" font-size="10">Tool Harness (15 tools total)</text>
+<text x="1239.9" y="-93.2" text-anchor="start" fill="#1e1e1e" font-size="10">Conversation: end_conversation, request_human,</text>
+<text x="1239.9" y="-80.7" text-anchor="start" fill="#1e1e1e" font-size="10">switch_language</text>
+<text x="1239.9" y="-68.2" text-anchor="start" fill="#1e1e1e" font-size="10">Symptom: ask_symptom_details, confirm_symptom,</text>
+<text x="1239.9" y="-55.7" text-anchor="start" fill="#1e1e1e" font-size="10">reject_symptom,</text>
+<text x="1239.9" y="-43.2" text-anchor="start" fill="#1e1e1e" font-size="10">summarize_symptoms</text>
+<text x="1239.9" y="-30.7" text-anchor="start" fill="#1e1e1e" font-size="10">State: update_patient_context, get_conversation_summary</text>
+<text x="1239.9" y="-18.2" text-anchor="start" fill="#1e1e1e" font-size="10">Triage: check_triage_ready, get_routing_preview</text>
+<text x="1239.9" y="-5.7" text-anchor="start" fill="#1e1e1e" font-size="10">Knowledge: search_hospital_kb, get_department_info,</text>
+<text x="1239.9" y="6.8" text-anchor="start" fill="#1e1e1e" font-size="10">check_wait_times</text>
+<text x="1239.9" y="19.3" text-anchor="start" fill="#1e1e1e" font-size="10">Emergency: trigger_emergency_alert</text>
+<text x="1413.2" y="182.6" text-anchor="middle" fill="#1e1e1e" font-size="14">Tool Access per Agent Node</text>
+</svg>
