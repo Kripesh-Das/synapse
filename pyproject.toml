@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "synapse"
+version = "0.1.0"
+description = "Hospital AI Triage Assistant — MiniCPM5-1B optimized"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph>=0.4",
+    "langgraph-checkpoint-postgres>=3.1",
+    "langchain-core>=0.3",
+    "openai>=1.50",
+    "redis>=5.0",
+    "psycopg[binary,pool]>=3.1",
+    "pydantic>=2.0",
+    "pydantic-settings>=2.0",
+    "fastapi>=0.100",
+    "uvicorn>=0.20",
+    "langfuse>=2.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.24",
+    "httpx>=0.27",
+]
+spacy = [
+    "spacy>=3.7",
+]
+
+[tool.setuptools.packages.find]
+include = ["synapse*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"

@@ -1,13 +1,65 @@
-# Firebase cached searches
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+.env.*
+
+# Testing & Coverage
+.pytest_cache/
+.tox/
+.nox/
+.coverage
+.cache
+htmlcov/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+.hypothesis/
+
+# Firebase & Firecrawl
 .firecrawl/
 
-# Python virtual environment
-.venv/
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# Editor files
-*.swp
-*.swo
