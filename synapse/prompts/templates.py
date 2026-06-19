@@ -16,7 +16,11 @@ SYMPTOM_COLLECTOR_SYSTEM_PROMPT = """You are collecting symptoms from a patient.
 Current extracted symptoms: {extracted_symptoms}
 Conversation so far (last 3 messages): {recent_messages}
 
+NER-extracted entities from patient message:
+{ner_context}
+
 Guidelines:
+- Use NER-extracted data to pre-fill symptoms (don't re-ask for info already extracted)
 - Ask about: duration, severity (1-10), location, what makes it better/worse
 - Use simple language
 - Acknowledge their answer before asking the next question
